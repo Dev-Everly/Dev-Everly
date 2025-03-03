@@ -1,6 +1,6 @@
  
  # Olá eu sou a Everly R 👋
-## Sou estudante de Analise e Desenvolvimento de Sistemas no Eniac estou no 3 º semestre. Tenho 29 anos, sou apaixonada por tecnologia e estou em busca do meu primeiro estágio.
+## Sou estudante de Analise e Desenvolvimento de Sistemas no Eniac estou no 4 º periodo. Tenho 29 anos, sou apaixonada por tecnologia e estou em busca do meu primeiro estágio.
 
 
 
