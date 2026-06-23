@@ -1,6 +1,6 @@
  
  # Olá eu sou a Everly R 👋
-## Sou estudante de Analise e Desenvolvimento de Sistemas no Eniac estou no 4 º periodo. Tenho 29 anos, sou apaixonada por tecnologia e estou em busca do meu primeiro estágio.
+## Sou formada em Análise e desenvolvimento de Sistemas desde janeiro de 2026, atualemnte participando do Bootcamp Generation Java Fullstack, onde tenho objetivo de aprender e ingressar no mercado de trabalho.
 
 
 
