@@ -1,6 +1,6 @@
  
  # Olá eu sou a Everly R 👋
-## Sou formada em Análise e desenvolvimento de Sistemas desde janeiro de 2026, atualemnte participando do Bootcamp Generation Java Fullstack, onde tenho objetivo de aprender e ingressar no mercado de trabalho.
+## Sou formada em Análise e desenvolvimento de Sistemas desde janeiro de 2026, atualmente participando do Bootcamp Generation Java Fullstack, onde tenho objetivo de aprender e ingressar no mercado de trabalho.
 
 
 
