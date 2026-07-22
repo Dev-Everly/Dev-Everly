@@ -1,7 +1,8 @@
 <div align="center">
 
-  <!-- Figurinha / Animação de Boas-vindas -->
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZneXZsdWd3ZzFiZHNxc2t1cHVvOThzZHpzbDk1ZGsxbDFuM21vbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L1R1tvI9sv3y03yujY/giphy.gif" width="220px" alt="Dev Ilustração">
+ 
+
+  
 ## 👩‍💻 Sobre Mim
  # Olá eu sou a Everly R 👋
 ## Sou formada em Análise e desenvolvimento de Sistemas desde janeiro de 2026, atualmente participando do Bootcamp Generation Java Fullstack, onde tenho objetivo de aprender e ingressar no mercado de trabalho.
