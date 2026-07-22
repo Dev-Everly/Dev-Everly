@@ -1,8 +1,13 @@
 <div align="center">
 
   <!-- GIF/Figurinha Animada para dar vida -->
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZneXZsdWd3ZzFiZHNxc2t1cHVvOThzZHpzbDk1ZGsxbDFuM21vbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L1R1tvI9sv3y03yujY/giphy.gif" width="200px" alt="Ilustração Dev">
+  <img 
+    <img src="LINK_DA_SUA_IMAGEM_AQUI" width="100%" alt="Everly Rosendo: Jiu-Jitsu Brown Belt & Java Developer" 
 
+<img src="https://github.com/user-attachments/assets/5917fa68-e346-41e4-97e7-a8d213ccf72d" width="100%" alt="Everly Rosendo: Jiu-Jitsu Brown Belt & Java Developer">
+
+  <br/>
+<br/>
   # Olá, eu sou a Everly R! 👋
 
   ### 👩‍💻 Desenvolvedora Java Full Stack | Em Transição de Carreira
@@ -11,8 +16,8 @@
     <a href="https://www.linkedin.com/in/everly-rosendo-1066101b9/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
-    <a href="mailto:everlysantos98@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=everlysantos98@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
     </a>
   </p>
 
@@ -28,7 +33,7 @@ Minha trajetória consolidada no setor comercial me trouxe habilidades valiosas 
 
 ---
 
-## 🔮 Habilidades & Tecnologias
+## 🔮 Habilidades 
 
 <div align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
@@ -61,5 +66,5 @@ Minha trajetória consolidada no setor comercial me trouxe habilidades valiosas 
 
 <div align="center">
   <sub>Desenvolvido com 💜 por Everly R.</sub>
-</div>![Uploading Gemini_Generated_Image_m8wr77m8wr77m8wr.png…]()
+</div> 
 
