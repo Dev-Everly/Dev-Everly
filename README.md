@@ -1,14 +1,13 @@
 <div align="center">
 
   <!-- GIF/Figurinha Animada para dar vida -->
-  <img 
-    <img src="LINK_DA_SUA_IMAGEM_AQUI" width="100%" alt="Everly Rosendo: Jiu-Jitsu Brown Belt & Java Developer" 
+  
 
 <img src="https://github.com/user-attachments/assets/5917fa68-e346-41e4-97e7-a8d213ccf72d" width="100%" alt="Everly Rosendo: Jiu-Jitsu Brown Belt & Java Developer">
 
   <br/>
 <br/>
-  # Olá, eu sou a Everly R! 👋
+  ## Olá, eu sou a Everly R! 👋
 
   ### 👩‍💻 Desenvolvedora Java Full Stack | Em Transição de Carreira
 
@@ -58,8 +57,8 @@ Minha trajetória consolidada no setor comercial me trouxe habilidades valiosas 
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Dev-Everly&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas Gerais"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Everly&layout=compact&theme=radical&hide=html,css" alt="Linguagens Mais Usadas"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Dev-Everly&show_icons=true&theme=radical" alt="Estatísticas Gerais"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Everly&layout=compact&theme=radical" alt="Linguagens Mais Usadas"/>
 </div>
 
 ---
