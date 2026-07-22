@@ -1,22 +1,35 @@
 <div align="center">
 
- 
+  <!-- GIF/Figurinha Animada para dar vida -->
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZneXZsdWd3ZzFiZHNxc2t1cHVvOThzZHpzbDk1ZGsxbDFuM21vbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L1R1tvI9sv3y03yujY/giphy.gif" width="200px" alt="Ilustração Dev">
 
-  
-## 👩‍💻 Sobre Mim
- # Olá eu sou a Everly R 👋
-## Sou formada em Análise e desenvolvimento de Sistemas desde janeiro de 2026, atualmente participando do Bootcamp Generation Java Fullstack, onde tenho objetivo de aprender e ingressar no mercado de trabalho.
+  # Olá, eu sou a Everly R! 👋
 
+  ### 👩‍💻 Desenvolvedora Java Full Stack | Em Transição de Carreira
 
+  <p align="center">
+    <a href="https://www.linkedin.com/in/everly-rosendo-1066101b9/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    <a href="mailto:everlysantos98@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+    </a>
+  </p>
 
+</div>
 
+---
 
+## 📖 Sobre Mim
 
+Sou formada em **Análise e Desenvolvimento de Sistemas** (concluído em janeiro de 2026). Atualmente, estou imersa no bootcamp intensivo da **Generation Brasil** (com patrocínio da Cummins), focado em desenvolvimento **Java Full Stack**.
 
+Minha trajetória consolidada no setor comercial me trouxe habilidades valiosas em comunicação, visão de negócios e resolução de problemas. Agora, uno essa experiência à minha paixão pela tecnologia, com o objetivo claro de aprender continuamente e ingressar no mercado de trabalho como desenvolvedora.
 
- 
+---
 
-## 🔮 Habilidades
+## 🔮 Habilidades & Tecnologias
+
 <div align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring">
@@ -28,25 +41,25 @@
   <img src="https://img.shields.io/badge/Scrum-004088?style=for-the-badge&logo=scrumalliance&logoColor=white" alt="Scrum">
 </div>
 
+---
 
-## 🎓  Educação
+## 🎓 Educação
+
 - **Bootcamp Java Full Stack Junior** — *Generation Brasil (Patrocínio Cummins)* | 2026
 - **Graduação em Análise e Desenvolvimento de Sistemas** — *Concluído em Jan/2026*
 
- 
- 
- 
+---
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Dev-Everly&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas Gerais"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Everly&layout=compact&theme=radical&hide=html,css" alt="Linguagens Mais Usadas"/>
 </div>
 
-## GitHub Stats
+---
 
-![Everly R GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev-Everly&show_icons=true&theme=radical)
-
-## Conecte-se comigo
- 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/everly-rosendo-1066101b9/)
-
- <div align="center">
+<div align="center">
   <sub>Desenvolvido com 💜 por Everly R.</sub>
-</div>
- 
+</div>![Uploading Gemini_Generated_Image_m8wr77m8wr77m8wr.png…]()
+
